@@ -815,11 +815,11 @@ B(4,6,7,AIR)
 B(5,6,7,AIR)
 B(6,6,7,STONE_BRICK_STAIRS:4)
 
-RB(4,1,4,MOB_SPAWNER,../../nbt/Spawner/Zombie.nbt,50,MOB_SPAWNER,../../nbt/Spawner/Skeleton.nbt,50,MOB_SPAWNER,../../nbt/Spawner/Spider.nbt,100)
+RB(4,1,4,MOB_SPAWNER,../../NBT/Spawners/Zombie.nbt,50,MOB_SPAWNER,../../NBT/Spawners/Skeleton.nbt,50,MOB_SPAWNER,../../NBT/Spawners/Spider.nbt,100)
 
-B(4,1,1,CHEST:3,../../nbt/VanillaLoot/simple_dungeon.nbt)
-B(7,1,4,CHEST:4,../../nbt/VanillaLoot/simple_dungeon.nbt)
-B(4,1,7,CHEST:2,../../nbt/VanillaLoot/simple_dungeon.nbt)
+B(4,1,1,CHEST:3,../../NBT/Chests/SimpleDungeon.nbt)
+B(7,1,4,CHEST:4,../../NBT/Chests/SimpleDungeon.nbt)
+B(4,1,7,CHEST:2,../../NBT/Chests/SimpleDungeon.nbt)
 
 # Size (X*Y*Z): 9*9*9
 

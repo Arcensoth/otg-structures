@@ -5307,20 +5307,20 @@ B(12,14,23,AIR)
 B(13,14,23,AIR)
 B(14,14,23,STONE_BRICK_STAIRS:4)
 
-B(12,2,9,SKULL:1,../../nbt/Skull/Skeleton8.nbt)
-B(4,2,15,SKULL:1,../../nbt/Skull/Skeleton0.nbt)
+B(12,2,9,SKULL:1,../../NBT/Skull/Skeleton8.nbt)
+B(4,2,15,SKULL:1,../../NBT/Skull/Skeleton0.nbt)
 
-RB(4,1,4,MOB_SPAWNER,../../nbt/Spawner/Zombie.nbt,50,MOB_SPAWNER,../../nbt/Spawner/Skeleton.nbt,50,MOB_SPAWNER,../../nbt/Spawner/Spider.nbt,100)
-RB(12,1,20,MOB_SPAWNER,../../nbt/Spawner/Zombie.nbt,50,MOB_SPAWNER,../../nbt/Spawner/Skeleton.nbt,50,MOB_SPAWNER,../../nbt/Spawner/Spider.nbt,100)
+RB(4,1,4,MOB_SPAWNER,../../NBT/Spawners/Zombie.nbt,50,MOB_SPAWNER,../../NBT/Spawners/Skeleton.nbt,50,MOB_SPAWNER,../../NBT/Spawners/Spider.nbt,100)
+RB(12,1,20,MOB_SPAWNER,../../NBT/Spawners/Zombie.nbt,50,MOB_SPAWNER,../../NBT/Spawners/Skeleton.nbt,50,MOB_SPAWNER,../../NBT/Spawners/Spider.nbt,100)
 
-B(4,1,1,CHEST:3,../../nbt/VanillaLoot/simple_dungeon.nbt)
-B(4,9,1,CHEST:3,../../nbt/VanillaLoot/simple_dungeon.nbt)
-B(1,1,4,CHEST:5,../../nbt/VanillaLoot/simple_dungeon.nbt)
-B(1,9,4,CHEST:5,../../nbt/VanillaLoot/simple_dungeon.nbt)
-B(15,1,20,CHEST:4,../../nbt/VanillaLoot/simple_dungeon.nbt)
-B(15,9,20,CHEST:4,../../nbt/VanillaLoot/simple_dungeon.nbt)
-B(12,1,23,CHEST:2,../../nbt/VanillaLoot/simple_dungeon.nbt)
-B(12,9,23,CHEST:2,../../nbt/VanillaLoot/simple_dungeon.nbt)
+B(4,1,1,CHEST:3,../../NBT/Chests/SimpleDungeon.nbt)
+B(4,9,1,CHEST:3,../../NBT/Chests/SimpleDungeon.nbt)
+B(1,1,4,CHEST:5,../../NBT/Chests/SimpleDungeon.nbt)
+B(1,9,4,CHEST:5,../../NBT/Chests/SimpleDungeon.nbt)
+B(15,1,20,CHEST:4,../../NBT/Chests/SimpleDungeon.nbt)
+B(15,9,20,CHEST:4,../../NBT/Chests/SimpleDungeon.nbt)
+B(12,1,23,CHEST:2,../../NBT/Chests/SimpleDungeon.nbt)
+B(12,9,23,CHEST:2,../../NBT/Chests/SimpleDungeon.nbt)
 
 # Size (X*Y*Z): 17*17*25
 

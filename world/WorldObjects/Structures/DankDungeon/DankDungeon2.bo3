@@ -2413,15 +2413,15 @@ B(4,1,16,AIR)
 B(4,2,16,AIR)
 B(4,3,16,AIR)
 
-RB(12,5,4,MOB_SPAWNER,../../nbt/Spawner/Zombie.nbt,50,MOB_SPAWNER,../../nbt/Spawner/Skeleton.nbt,50,MOB_SPAWNER,../../nbt/Spawner/Spider.nbt,100)
-RB(4,1,12,MOB_SPAWNER,../../nbt/Spawner/Zombie.nbt,50,MOB_SPAWNER,../../nbt/Spawner/Skeleton.nbt,50,MOB_SPAWNER,../../nbt/Spawner/Spider.nbt,100)
+RB(12,5,4,MOB_SPAWNER,../../NBT/Spawners/Zombie.nbt,50,MOB_SPAWNER,../../NBT/Spawners/Skeleton.nbt,50,MOB_SPAWNER,../../NBT/Spawners/Spider.nbt,100)
+RB(4,1,12,MOB_SPAWNER,../../NBT/Spawners/Zombie.nbt,50,MOB_SPAWNER,../../NBT/Spawners/Skeleton.nbt,50,MOB_SPAWNER,../../NBT/Spawners/Spider.nbt,100)
 
-B(12,5,1,CHEST:3,../../nbt/VanillaLoot/simple_dungeon.nbt)
-B(15,5,4,CHEST:4,../../nbt/VanillaLoot/simple_dungeon.nbt)
-B(4,9,9,CHEST:3,../../nbt/VanillaLoot/simple_dungeon.nbt)
-B(1,1,12,CHEST:5,../../nbt/VanillaLoot/simple_dungeon.nbt)
-B(7,1,12,CHEST:4,../../nbt/VanillaLoot/simple_dungeon.nbt)
-B(4,9,15,CHEST:2,../../nbt/VanillaLoot/simple_dungeon.nbt)
+B(12,5,1,CHEST:3,../../NBT/Chests/SimpleDungeon.nbt)
+B(15,5,4,CHEST:4,../../NBT/Chests/SimpleDungeon.nbt)
+B(4,9,9,CHEST:3,../../NBT/Chests/SimpleDungeon.nbt)
+B(1,1,12,CHEST:5,../../NBT/Chests/SimpleDungeon.nbt)
+B(7,1,12,CHEST:4,../../NBT/Chests/SimpleDungeon.nbt)
+B(4,9,15,CHEST:2,../../NBT/Chests/SimpleDungeon.nbt)
 
 # Size (X*Y*Z): 17*17*17
 
